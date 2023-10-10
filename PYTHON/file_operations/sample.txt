@@ -1,0 +1,3 @@
+This is a sample file to test the input output operatios in FILE OPERATORS
+Let me try it out
+It is very easy to study PYTHON
